@@ -1,0 +1,24 @@
+.c__nav{
+   background-color: rgb(253, 251, 251);
+   height: 25px;
+   width: auto;
+}
+
+.auth{
+    display: flex;
+    padding: 3px;
+    float: right;
+}
+
+.auth a{
+    color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.footer {
+    height: 150px;
+    background-color: black;
+    width: 100%;
+    margin-top: 300px;
+}
+
